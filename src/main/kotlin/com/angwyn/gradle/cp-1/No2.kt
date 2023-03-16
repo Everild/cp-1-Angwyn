@@ -1,4 +1,4 @@
-package com.angwyn.gradle
+package com.angwyn.gradle.`cp-1`
 
 //class No2 {
 //}
